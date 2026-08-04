@@ -1,4 +1,4 @@
-# 🧠 Autonomous AI Peer-Review & Hypothesis Generation Engine
+# 🧠 ArXivIntel
 
 An end-to-end **agentic workflow** for automated critical analysis of Deep Learning research papers.
 
